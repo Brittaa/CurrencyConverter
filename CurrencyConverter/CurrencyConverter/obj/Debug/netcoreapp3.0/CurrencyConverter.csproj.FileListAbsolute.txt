@@ -1,0 +1,13 @@
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/CurrencyConverter
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/CurrencyConverter.deps.json
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/CurrencyConverter.runtimeconfig.json
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/CurrencyConverter.runtimeconfig.dev.json
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/CurrencyConverter.dll
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/CurrencyConverter.pdb
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.0/CurrencyConverter.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.0/CurrencyConverter.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.0/CurrencyConverter.AssemblyInfo.cs
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.0/CurrencyConverter.csproj.CopyComplete
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.0/CurrencyConverter.dll
+/Users/Britta/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.0/CurrencyConverter.pdb
